@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/idk/anaconda3/envs/ynov-ml/bin/python"
+    "python.pythonPath": "/home/idk/anaconda3/envs/ynov-ml/bin/python",
+    "python.languageServer": "Pylance",
 }
