@@ -1,0 +1,13 @@
+name: ynovml_env2
+channels:
+  - conda-forge
+dependencies:
+  - python==3.6.12
+  - ipykernel==5.3.4
+  - pip==20.3.3
+
+  - pip:
+    - pandas==1.1.3
+    - scikit-learn==0.23.2
+    - seaborn==0.11.0
+    - matplotlib==3.3.2
