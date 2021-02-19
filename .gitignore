@@ -1,3 +1,4 @@
 .vscode/
 Notebooks/*.csv
 Notebooks/*.pkl
+__pycache__/
